@@ -1,0 +1,48 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": false,
+        "HideIconAfter": 60,
+        "IconURL": "https://i.imgur.com/DH98psy.png",
+        "DisableIconText": false,
+        "IconPosition": 0,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "Test Tab 1",
+          "title1": "Halo Test UI",
+          "text1": "Deskripsi",
+          "imageurl": "https://i.imgur.com/DH98psy.png"
+        }
+      },
+      {
+        "tab2": {
+          "layout": 2,
+          "buttontext": "Test Tab 2",
+          "title1": "Test Judul UI 1 Layout 2",
+          "text1": "Test Text 1 Layout 2",
+          "title2": "Test Judul UI 2 Layout 2",
+          "text2": "Test Text UI 2 Layout 2",
+          "imageurl": "https://i.imgur.com/DH98psy.png"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Discord",
+          "url": "https://discord.gg/qyTZ4tSH74"
+        }
+      }
+    ]
+  }
+}
+
+
